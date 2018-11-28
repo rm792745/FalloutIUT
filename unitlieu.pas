@@ -1,10 +1,6 @@
 unit UnitLieu;
 
-
-
 {$mode objfpc}{$H+}
-
-
 
 interface
 
@@ -18,9 +14,7 @@ type
 
   end;
 
-
 procedure foret():lieu;
-
 procedure lac():lieu;
 
 implementation
@@ -28,26 +22,17 @@ implementation
 uses UnitRessource;
 
 procedure lac(fiche : lieu);
-
 begin
-
   lac.nom:='lac';
-
   lac.ressource:=getPoisson();
-
   lac.acces := TRUE;
-
 end;
 
 procedure foret(fiche : lieu);
-
 begin
-
   foret.nom:='la fôret';
-
   foret.ressource:=getBois();
-
   lac.acces := FALSE;
-
 end;
+
 end.
