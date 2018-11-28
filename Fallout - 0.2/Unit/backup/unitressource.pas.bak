@@ -1,0 +1,71 @@
+unit UnitRessource;
+
+{$mode objfpc}{$H+}
+
+interface
+
+//Procedure d'initialisation du jeu
+procedure initialisation();
+
+
+//Procedure pour augmenter le nombre de bois
+procedure getBois(addBois:Integer);
+//Procedure pour augmenter le nombre de poisson
+procedure getPoisson(addPoisson:Integer);
+
+//Fonction affichage du nombre de bois
+function nbBois():Integer;
+//Fonction affichage du nombre de poisson
+function nbPoisson():Integer;
+
+//Procedure pour diminuer le nombre de bois
+procedure rmBois(moinBois:Integer);
+//Procedure pour diminuer le nombre de poisson
+procedure rmPoisson(moinPoisson:Integer);
+
+implementation
+
+var
+  bois:integer;
+  poisson:integer;
+  legume:integer;
+
+procedure initialisation();
+begin
+  bois := 0;
+  poisson := 0;
+  legume := 0;
+end;
+
+function nbBois():Integer;
+begin
+  nbBois := bois;
+end;
+
+procedure getBois(addBois:Integer);
+begin
+  bois := bois + addBois;
+end;
+
+function nbPoisson():Integer;
+begin
+  nbPoisson := poisson;
+end;
+
+procedure getPoisson(addPoisson:Integer);
+begin
+  poisson := poisson + addPoisson;
+end;
+
+procedure rmBois(moinBois:Integer);
+begin
+  bois := bois - moinBois;
+end;
+
+procedure rmPoisson(moinPoisson:Integer);
+begin
+  poisson := poisson - moinPoisson;
+end;
+
+end.
+
