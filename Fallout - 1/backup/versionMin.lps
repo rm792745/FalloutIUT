@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="26">
+      <Unit0>
+        <Filename Value="versionMin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="version"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="5"/>
+        <CursorPos X="102" Y="8"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitressource.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitRessource"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="9" Y="47"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unitepersonnage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="15" Y="14"/>
+        <UsageCount Value="63"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="GestionEcran.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="223"/>
+        <CursorPos X="72" Y="246"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitlieu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitLieu"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="81"/>
+        <CursorPos Y="81"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="date.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <CursorPos X="35" Y="10"/>
+        <UsageCount Value="63"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="test.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="62"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="diffchoix.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DiffChoix"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="21" Y="52"/>
+        <UsageCount Value="54"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="uninuit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uniNuit"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="10" Y="165"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="gameover.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="gameOver"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="10" Y="81"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Pro\unitrecord (2).pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\CLAVASCI.PAS"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="45" Y="72"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\mamka\Downloads\project1 (1).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="110"/>
+        <CursorPos Y="149"/>
+        <UsageCount Value="8"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-console\src\win\crt.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="20" Y="117"/>
+        <UsageCount Value="14"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\mamka\Downloads\project1 (2).lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="8"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\mamka\Downloads\project1 (3).lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="16"/>
+        <UsageCount Value="11"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\mamka\AppData\Local\Temp\Rar$DIa1140.24444\Fenetre_Jeu.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-console\src\inc\crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="12" Y="77"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="U:\!CommunROnly\M1102 - Algorithmique et programmation\Projet\GestionEcran.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="181"/>
+        <CursorPos X="18" Y="12"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="unitmonstres.pas"/>
+        <UnitName Value="unitMonstres"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="19"/>
+        <CursorPos X="40" Y="114"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="unitpersonnage.pas"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="26" Y="75"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="unittestcombat.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="26" Y="41"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="unitdate.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="24"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="unitdiffchoix.pas"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="436"/>
+        <CursorPos X="107" Y="459"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="combat.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="unitcombat.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="unitpersonnage.pas"/>
+        <Caret Line="2" Column="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitpersonnage.pas"/>
+        <Caret Line="7" Column="20"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitpersonnage.pas"/>
+        <Caret Line="106" Column="5" TopLine="84"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="71" Column="45" TopLine="63"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="173" Column="12" TopLine="159"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="30" Column="69" TopLine="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="240" Column="29" TopLine="205"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitlieu.pas"/>
+        <Caret Line="76" Column="27" TopLine="72"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="334" Column="70" TopLine="303"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitlieu.pas"/>
+        <Caret Line="130" Column="7" TopLine="82"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitlieu.pas"/>
+        <Caret Line="114" Column="65" TopLine="82"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitlieu.pas"/>
+        <Caret Line="115" Column="3" TopLine="79"/>
+      </Position12>
+      <Position13>
+        <Filename Value="gameover.pas"/>
+        <Caret Line="88" Column="17" TopLine="40"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="334" Column="14" TopLine="309"/>
+      </Position14>
+      <Position15>
+        <Filename Value="gameover.pas"/>
+        <Caret Line="69" Column="18" TopLine="16"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="117" Column="10" TopLine="117"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitmonstres.pas"/>
+        <Caret Line="109" Column="32" TopLine="108"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="36" Column="24" TopLine="21"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="2" Column="2"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="35" Column="22"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unittestcombat.pas"/>
+        <Caret Line="185" Column="6" TopLine="171"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="57" TopLine="45"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="173" Column="17" TopLine="151"/>
+      </Position23>
+      <Position24>
+        <Filename Value="uninuit.pas"/>
+        <Caret Line="25" Column="104" TopLine="8"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="227" Column="15" TopLine="212"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitlieu.pas"/>
+        <Caret Line="52" Column="27" TopLine="48"/>
+      </Position26>
+      <Position27>
+        <Filename Value="gameover.pas"/>
+        <Caret Line="83" Column="70" TopLine="61"/>
+      </Position27>
+      <Position28>
+        <Filename Value="gameover.pas"/>
+        <Caret Line="7" Column="49"/>
+      </Position28>
+      <Position29>
+        <Filename Value="versionMin.pas"/>
+        <Caret Line="9" Column="5"/>
+      </Position29>
+      <Position30>
+        <Filename Value="unitdiffchoix.pas"/>
+        <Caret Line="22" Column="2" TopLine="2"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
